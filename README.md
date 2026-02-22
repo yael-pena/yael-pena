@@ -22,11 +22,11 @@ I’ve always been drawn to technology and creating things with it. That interes
 ## Technical Skills
 
 **Languages**
-- C#
-- Assembly (ARM/GBA)
-- Python
-- Java
 - C
+- C++
+- C#
+- Java
+- Assembly (ARM/GBA)
 
 **Tools & Areas**
 - Debugging  
